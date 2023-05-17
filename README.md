@@ -31,8 +31,12 @@ An instance of a KNN model is trained and then evaluated using a confussion matr
 
 An exercise of formulating three statements based on the movie ratings dataset, each of which must be solved using one of the three ML models that the classmates taught in the block (Log. R, LDA and KNN).
 
-## test
+## correlation_analysis
 
-A one-day long exam where a random prompt is given and it must be solved using the assigned model.
+A one-day long test where a random prompt is given and it must be solved using the assigned model.
 
 Here, I was asked to use the logistic regression model to make predictions on the acceptance of a movie (whether the user finds it good or bad), based on the users' age and gender. I also used a correlation matrix to aid my conclusion.
+
+## wordcloud_w_remote_kernel
+
+A notebook that uses a jupyter server hosted on a Oracle Linux 7.9 virtual machine, where I used the `wordcloud` library to generate a word cloud based on the output of Hadoop's word count example, given 4 different sources of text.
