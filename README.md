@@ -10,6 +10,7 @@ This is a collection of Jupyter Notebooks that contain R code done in the Big Da
     * Logistic regression
     * Linear discriminant analysis
     * K-nearest neighbors
+* Plot data from Hadoop using the `wordcloud` library
 
 ## movies_analysis
 
