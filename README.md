@@ -41,3 +41,5 @@ Here, I was asked to use the logistic regression model to make predictions on th
 ## wordcloud_w_remote_kernel
 
 A notebook that uses a jupyter server hosted on a Oracle Linux 7.9 virtual machine, where I used the `wordcloud` library to generate a word cloud based on the output of Hadoop's word count example, given 4 different sources of text.
+
+See further details on the setup [here](https://www.notion.so/schreibpunkt/Big-Data-course-final-project-8f5da5129b7744ceb4189c35dc82f589?pvs=4)
